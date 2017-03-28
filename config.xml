@@ -4,7 +4,7 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>Business Card</name>
+    <name>Business</name>
     <description>My business card with jQuery Mobile user interface</description>
     <author href="http://mypersonalwebsite.com" email="kasiakonopelska@gmail.com">
 		Kasia Konopelska
